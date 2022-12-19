@@ -20,7 +20,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "p": "set BUILD_PATH=docs&& set PUBLIC_URL=/react&& react-scripts build && echo 'visite your next facebook at https://djm2x.github.com/react'",
+    "p": "set BUILD_PATH=docs&& set PUBLIC_URL=/react&& react-scripts build && echo 'visite your next facebook at https://mohamed-mourabit.github.io/react'",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
